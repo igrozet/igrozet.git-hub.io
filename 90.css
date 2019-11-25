@@ -1,0 +1,89 @@
+#navBarCollapse ul li a:hover {
+    background-color: #413839;
+  }
+  
+  #home .jumbotron {
+   
+    background: #eff4ff;
+    color: #1d1d1d;
+    text-align: center;
+    font-size:130px;
+  }
+  .img-responsive{
+      padding-top:0px;
+  }
+  
+  #home .jumbotron img {
+    margin: 0 auto;
+  }
+  
+  #about{
+    margin-top: -30px;
+    padding: 50px 0;
+    background: #b2b9b6;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  #about img {
+    margin: 5px auto;
+    background: url(image.jpg) no-repeat;
+    background-size: cover;
+  
+}
+  }
+  
+  #portfolio {
+    color: #ecf0f1;
+    padding: 50px 0;
+    background: #34495e;
+    text-align: center;
+  }
+  
+  #portfolio img {
+    margin-top: 20px;
+  }
+  
+  #portfolio p a {
+    color: #1abc9c;
+  }
+  
+  #portfolio p a:hover {
+    color: #00b159;
+  }
+  
+  #portfolio h4 {
+    color: #95a5a6;
+  }
+  
+  #portfolio a:hover {
+    text-decoration: none;
+  }
+  
+  #portfolio a:hover img {
+    opacity: 0.8;
+  }
+  
+  #portfolio a:hover h4 {
+    color: #eff4ff;
+  }
+  
+  #contact {
+    padding: 50px 0;
+    background: #facc3d;
+    text-align: center;
+  }
+  
+  #contact img {
+    margin: 30px 10px;
+  }
+  
+  #contact img:hover {
+    opacity: 0.9;
+  }
+  
+  footer {
+    text-align: center;
+    background: gray;
+    padding: 10px 0;
+  }
